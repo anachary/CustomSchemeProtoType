@@ -1,0 +1,28 @@
+C:\MultipleAuthentication\WebApplication2\obj\Debug\netcoreapp2.1\CustomSchemeProtoType.csprojResolveAssemblyReference.cache
+C:\MultipleAuthentication\WebApplication2\obj\Debug\netcoreapp2.1\CustomSchemeProtoType.csproj.CoreCompileInputs.cache
+C:\MultipleAuthentication\WebApplication2\obj\Debug\netcoreapp2.1\CustomSchemeProtoType.RazorAssemblyInfo.cache
+C:\MultipleAuthentication\WebApplication2\obj\Debug\netcoreapp2.1\CustomSchemeProtoType.RazorAssemblyInfo.cs
+C:\MultipleAuthentication\WebApplication2\obj\Debug\netcoreapp2.1\CustomSchemeProtoType.AssemblyInfoInputs.cache
+C:\MultipleAuthentication\WebApplication2\obj\Debug\netcoreapp2.1\CustomSchemeProtoType.AssemblyInfo.cs
+C:\MultipleAuthentication\WebApplication2\bin\Debug\netcoreapp2.1\CustomSchemeProtoType.deps.json
+C:\MultipleAuthentication\WebApplication2\bin\Debug\netcoreapp2.1\CustomSchemeProtoType.runtimeconfig.json
+C:\MultipleAuthentication\WebApplication2\bin\Debug\netcoreapp2.1\CustomSchemeProtoType.runtimeconfig.dev.json
+C:\MultipleAuthentication\WebApplication2\bin\Debug\netcoreapp2.1\CustomSchemeProtoType.dll
+C:\MultipleAuthentication\WebApplication2\bin\Debug\netcoreapp2.1\CustomSchemeProtoType.pdb
+C:\MultipleAuthentication\WebApplication2\obj\Debug\netcoreapp2.1\CustomSchemeProtoType.RazorTargetAssemblyInfo.cache
+C:\MultipleAuthentication\WebApplication2\obj\Debug\netcoreapp2.1\CustomSchemeProtoType.dll
+C:\MultipleAuthentication\WebApplication2\obj\Debug\netcoreapp2.1\CustomSchemeProtoType.pdb
+C:\Users\akash\Documents\Visual Studio 2017\Projects\CustomSchemeProtoType\CustomSchemeProtoType\bin\Debug\netcoreapp2.1\CustomSchemeProtoType.deps.json
+C:\Users\akash\Documents\Visual Studio 2017\Projects\CustomSchemeProtoType\CustomSchemeProtoType\bin\Debug\netcoreapp2.1\CustomSchemeProtoType.runtimeconfig.json
+C:\Users\akash\Documents\Visual Studio 2017\Projects\CustomSchemeProtoType\CustomSchemeProtoType\bin\Debug\netcoreapp2.1\CustomSchemeProtoType.runtimeconfig.dev.json
+C:\Users\akash\Documents\Visual Studio 2017\Projects\CustomSchemeProtoType\CustomSchemeProtoType\bin\Debug\netcoreapp2.1\CustomSchemeProtoType.dll
+C:\Users\akash\Documents\Visual Studio 2017\Projects\CustomSchemeProtoType\CustomSchemeProtoType\bin\Debug\netcoreapp2.1\CustomSchemeProtoType.pdb
+C:\Users\akash\Documents\Visual Studio 2017\Projects\CustomSchemeProtoType\CustomSchemeProtoType\obj\Debug\netcoreapp2.1\CustomSchemeProtoType.csprojResolveAssemblyReference.cache
+C:\Users\akash\Documents\Visual Studio 2017\Projects\CustomSchemeProtoType\CustomSchemeProtoType\obj\Debug\netcoreapp2.1\CustomSchemeProtoType.csproj.CoreCompileInputs.cache
+C:\Users\akash\Documents\Visual Studio 2017\Projects\CustomSchemeProtoType\CustomSchemeProtoType\obj\Debug\netcoreapp2.1\CustomSchemeProtoType.RazorAssemblyInfo.cache
+C:\Users\akash\Documents\Visual Studio 2017\Projects\CustomSchemeProtoType\CustomSchemeProtoType\obj\Debug\netcoreapp2.1\CustomSchemeProtoType.RazorAssemblyInfo.cs
+C:\Users\akash\Documents\Visual Studio 2017\Projects\CustomSchemeProtoType\CustomSchemeProtoType\obj\Debug\netcoreapp2.1\CustomSchemeProtoType.AssemblyInfoInputs.cache
+C:\Users\akash\Documents\Visual Studio 2017\Projects\CustomSchemeProtoType\CustomSchemeProtoType\obj\Debug\netcoreapp2.1\CustomSchemeProtoType.AssemblyInfo.cs
+C:\Users\akash\Documents\Visual Studio 2017\Projects\CustomSchemeProtoType\CustomSchemeProtoType\obj\Debug\netcoreapp2.1\CustomSchemeProtoType.RazorTargetAssemblyInfo.cache
+C:\Users\akash\Documents\Visual Studio 2017\Projects\CustomSchemeProtoType\CustomSchemeProtoType\obj\Debug\netcoreapp2.1\CustomSchemeProtoType.dll
+C:\Users\akash\Documents\Visual Studio 2017\Projects\CustomSchemeProtoType\CustomSchemeProtoType\obj\Debug\netcoreapp2.1\CustomSchemeProtoType.pdb
